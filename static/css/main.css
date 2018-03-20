@@ -1,1 +1,16 @@
 /* you can add any styles you think could improve user's experience */
+.img {
+    display: flex;
+    background-color: #f1e3d4;
+}
+
+.img2 {
+    display: grid;
+    margin-left: 100px;
+    background-color: #fff;
+    text-align: center;
+}
+
+img {
+    border: 3px solid;
+}
